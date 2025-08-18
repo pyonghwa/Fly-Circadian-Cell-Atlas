@@ -1,5 +1,7 @@
 # Fly-Circadian-Cell-Atlas
-Kim et al.
 
+## Circadian Transcriptomics Analysis
+This repository contains Jupyter notebooks and scripts used for the analyses in our study:
+["A Time-Resolved Single-Nucleus Atlas of Circadian Transcription in the Drosophila Head"](https://doi.org/10.xxxx/xxxxx).
 
-EasySci https://github.com/JunyueCaoLab/EasySci.git
+Read alignment and generation of gene and exon count matrices were performed using the EasySci["EasySci"](https://github.com/JunyueCaoLab/EasySci.git) pipeline.
