@@ -1,6 +1,5 @@
 # Fly-Circadian-Cell-Atlas
 
-## Circadian Transcriptomics Analysis
 This repository contains Jupyter notebooks and scripts used for the analyses in our study:
 ["A Time-Resolved Single-Nucleus Atlas of Circadian Transcription in the Drosophila Head"](https://doi.org/10.xxxx/xxxxx).
 
