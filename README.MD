@@ -65,3 +65,7 @@ Tested with:
 - scuttle 1.12.0
 - SingleCellExperiment 1.24.0
 - SummarizedExperiment 1.32.0
+
+## Computing environment
+All analyses were run on The Rockefeller University high-performance computing (HPC) cluster (Linux). Jobs were executed on compute nodes equipped with NVIDIA A100 Tensor Core GPUs.
+
