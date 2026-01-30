@@ -5,6 +5,7 @@ This repository contains Jupyter notebooks and scripts used for the analyses in 
 
 Read alignment and generation of gene and exon count matrices were performed using the [EasySci](https://github.com/JunyueCaoLab/EasySci.git) pipeline.
 
+Supplementary files and the processed h5ad file are available on [Zenodo](https://doi.org/10.5281/zenodo.17584225).
 
 ## Environment (key packages)
 Tested with:
