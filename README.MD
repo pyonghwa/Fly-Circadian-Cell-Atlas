@@ -7,6 +7,8 @@ Read alignment and generation of gene and exon count matrices were performed usi
 
 Supplementary files and the processed h5ad file are available on [Zenodo](https://doi.org/10.5281/zenodo.17584225).
 
+[An interactive application](https://pyonghwakim.shinyapps.io/fly-circadian-cell-atlas/) for exploring cell type–resolved gene expression across genotype, sex, and time under LD and DD conditions is publicly available.
+
 ## Environment (key packages)
 Tested with:
 - Python 3.10.18
